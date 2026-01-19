@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Mush'ab Abdurrahman Fathin | Fullstack Web Developer",
+    "description": "Mahasiswa IT yang passionate dan Fullstack Web Developer yang menciptakan pengalaman digital yang elegan dengan teknologi modern."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "projects": "Proyek",
+    "services": "Layanan",
+    "experience": "Pengalaman",
+    "education": "Pendidikan",
+    "testimonials": "Testimoni",
+    "notes": "Catatan",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "greeting": "Halo, saya",
+    "name": "Mush'ab Abdurrahman Fathin",
+    "roles": {
+      "fullstack": "Fullstack Web Developer",
+      "student": "Mahasiswa IT Semester 3"
+    },
+    "cta": {
+      "cv": "Download CV",
+      "whatsapp": "Chat WhatsApp",
+      "projects": "Lihat Proyek"
+    },
+    "headline": "Bangun Website Cepat, Rapi, dan Siap Dipakai Bisnis.",
+    "subheadline": "Mush'ab Abdurrahman Fathin · Fullstack Web Developer · Mahasiswa IT Semester 3",
+    "bio": "Saya membantu HR dan klien membangun website serta aplikasi web modern—mulai dari landing page, dashboard admin, hingga sistem CRUD—dengan fokus pada performa, kerapian kode, dan UX yang nyaman.",
+    "photoAlt": "Foto profil Mush'ab Abdurrahman Fathin"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "subtitle": "Kenali siapa saya",
+    "bio": "Saya Mush'ab Abdurrahman Fathin, mahasiswa IT semester 3 yang berfokus pada pengembangan web. Saya terbiasa membangun website dan sistem berbasis PHP/JavaScript dengan UI yang rapi dan mudah digunakan.\n\nSaya pernah mengerjakan beberapa proyek seperti \"syareapreneur.site\" (peminjaman dana syariah), \"smaibnuaqil.my.id\" (PPDB/penerimaan murid baru), serta website sederhana seperti Linktree untuk personal branding.\n\nSaya senang mengubah kebutuhan bisnis menjadi fitur yang jelas: form, validasi, database, panel admin, dan halaman yang responsif.",
+    "stats": {
+      "projects": "Proyek Selesai",
+      "experience": "Tahun Pengalaman",
+      "clients": "Klien Puas"
+    },
+    "goalsTitle": "Tujuan Website",
+    "goalsText": "Melamar kerja sebagai Fullstack Web Developer, menerima freelance, dan membangun personal branding.",
+    "audienceTitle": "Target Audiens",
+    "audienceText": "HR/recruiter, klien non-teknis, klien teknis/developer, dan umum.",
+    "skillsTitle": "Skills & Teknologi",
+    "skillsSubtitle": "Stack utama yang sering saya gunakan.",
+    "skillsGroups": {
+      "languages": "Bahasa Pemrograman",
+      "frameworks": "Framework / Tools",
+      "database": "Database",
+      "other": "Lainnya"
+    }
+  },
+  "projects": {
+    "title": "Proyek Unggulan",
+    "subtitle": "Pilihan karya terbaru saya",
+    "viewAll": "Lihat Semua Proyek",
+    "viewProject": "Lihat Proyek",
+    "viewDetails": "Lihat Detail",
+    "techStack": "Tech Stack",
+    "featured": "Unggulan",
+    "items": {
+      "syareapreneur": {
+        "title": "Syareapreneur.site",
+        "description": "Website peminjaman dana syariah untuk pengajuan, verifikasi, dan manajemen data.",
+        "longDescription": "Aplikasi web untuk proses peminjaman dana berbasis prinsip syariah. Mencakup halaman informasi, formulir pengajuan, validasi input, penyimpanan data ke database, serta alur administrasi dasar untuk memproses pengajuan."
+      },
+      "smaibnuaqil": {
+        "title": "smaibnuaqil.my.id (PPDB)",
+        "description": "Website penerimaan murid baru dengan formulir, upload berkas, dan panel admin.",
+        "longDescription": "Sistem PPDB sederhana yang memudahkan calon siswa mengisi formulir, mengunggah berkas, dan memantau status. Admin dapat meninjau data pendaftar, melakukan verifikasi, serta mengelola informasi yang ditampilkan."
+      },
+      "linktree": {
+        "title": "Website seperti Linktree",
+        "description": "Halaman personal branding untuk memperkenalkan diri dan mengarahkan ke tautan penting.",
+        "longDescription": "Website ringan dengan layout bersih untuk menampilkan bio singkat, tautan sosial, dan CTA utama. Cocok untuk portofolio cepat dan branding personal."
+      }
+    }
+  },
+  "services": {
+    "title": "Layanan",
+    "subtitle": "Bagaimana saya bisa membantu Anda",
+    "items": {
+      "frontend": {
+        "title": "Pengembangan Frontend",
+        "description": "Membangun antarmuka pengguna yang responsif, performan, dan aksesibel menggunakan React, Next.js, Vue, dan framework CSS modern."
+      },
+      "backend": {
+        "title": "Pengembangan Backend",
+        "description": "Membuat API yang robust dan aplikasi server-side dengan Node.js, Laravel, dan manajemen database."
+      },
+      "fullstack": {
+        "title": "Solusi Fullstack",
+        "description": "Pengembangan aplikasi web end-to-end dari konsep hingga deployment, termasuk maintenance dan support."
+      }
+    }
+  },
+  "experience": {
+    "title": "Pengalaman",
+    "subtitle": "Perjalanan profesional saya",
+    "present": "Sekarang"
+  },
+  "education": {
+    "title": "Pendidikan",
+    "subtitle": "Latar belakang akademik saya"
+  },
+  "testimonials": {
+    "title": "Testimoni",
+    "subtitle": "Apa kata klien tentang saya"
+  },
+  "notes": {
+    "title": "Catatan & Artikel",
+    "subtitle": "Pemikiran tentang pengembangan dan teknologi",
+    "readMore": "Baca Selengkapnya",
+    "readTime": "menit baca",
+    "allTags": "Semua",
+    "noNotes": "Tidak ada catatan ditemukan",
+    "viewAll": "Lihat Semua Notes"
+  },
+  "contact": {
+    "title": "Hubungi Saya",
+    "subtitle": "Mari bekerja sama",
+    "description": "Saya selalu terbuka untuk mendiskusikan proyek baru, ide kreatif, atau kesempatan untuk menjadi bagian dari visi Anda. Jangan ragu untuk menghubungi!",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "social": "Media Sosial",
+    "copyEmail": "Salin Email",
+    "copied": "Tersalin!",
+    "sendMessage": "Kirim Pesan",
+    "form": {
+      "name": "Nama Anda",
+      "email": "Email Anda",
+      "message": "Pesan Anda",
+      "submit": "Kirim Pesan",
+      "subject": "Subjek",
+      "defaultSubject": "Kontak dari Website Portofolio"
+    },
+    "toast": {
+      "emailCopied": "Email disalin",
+      "messageRequired": "Pesan tidak boleh kosong",
+      "openingEmail": "Membuka aplikasi email..."
+    }
+  },
+  "footer": {
+    "tagline": "Menciptakan pengalaman digital dengan passion dan presisi.",
+    "quickLinks": "Tautan Cepat",
+    "connect": "Terhubung",
+    "copyright": "© 2024 Mush'ab Abdurrahman Fathin. Semua hak dilindungi."
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "backToHome": "Kembali ke Beranda"
+  },
+  "organizations": {
+    "title": "Organisasi",
+    "subtitle": "Pengalaman kepanitiaan dan organisasi yang saya ikuti"
+  },
+  "projectDetail": {
+    "backToProjects": "Kembali ke Proyek",
+    "visitSite": "Kunjungi Website",
+    "gallery": "Screenshot / Galeri",
+    "notFound": "Proyek tidak ditemukan",
+    "notFoundDesc": "Proyek yang kamu cari tidak ada atau link-nya berubah."
+  },
+  "notesDetail": {
+    "backToNotes": "Kembali ke Notes",
+    "notFound": "Notes tidak ditemukan",
+    "notFoundDesc": "Artikel yang kamu cari tidak ada atau link-nya berubah."
+  }
+}

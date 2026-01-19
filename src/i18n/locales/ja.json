@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Mush'ab Abdurrahman Fathin | フルスタックWeb開発者",
+    "description": "IT学科の学生として学びながら、モダンな技術で洗練されたWeb体験を作るフルスタックWeb開発者です。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "私について",
+    "projects": "実績",
+    "services": "サービス",
+    "experience": "経験",
+    "education": "学歴",
+    "testimonials": "推薦の声",
+    "notes": "ノート",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "greeting": "こんにちは、私は",
+    "name": "Mush'ab Abdurrahman Fathin",
+    "roles": {
+      "fullstack": "フルスタックWeb開発者",
+      "student": "IT学科 3学期の学生"
+    },
+    "cta": {
+      "cv": "CVをダウンロード",
+      "whatsapp": "WhatsAppで連絡",
+      "projects": "実績を見る"
+    },
+    "headline": "速くて綺麗、ビジネスですぐ使えるWebサイトを制作します。",
+    "subheadline": "Mush'ab Abdurrahman Fathin · フルスタックWeb開発者 · IT学科 3学期の学生",
+    "bio": "採用担当者やクライアント向けに、モダンなWebサイト／Webアプリを開発します。LPから管理画面、CRUDシステムまで、パフォーマンスと保守性、使いやすいUXを重視して実装します。",
+    "photoAlt": "Mush'ab Abdurrahman Fathin のプロフィール写真"
+  },
+  "about": {
+    "title": "私について",
+    "subtitle": "プロフィール",
+    "bio": "私は Mush'ab Abdurrahman Fathin、IT学科3学期の学生で、Web開発に注力しています。PHP / JavaScript を中心に、見やすく使いやすいUIと堅実な基礎でWebサイトやWebシステムを構築します。\n\n\"syareapreneur.site\"（シャリア金融／融資サイト）、\"smaibnuaqil.my.id\"（入学受付／PPDBサイト）、そしてLinktree風の個人ブランディングページなどの制作経験があります。\n\n要件を分かりやすい機能に落とし込み、フォーム・バリデーション・DB・管理画面・レスポンシブ対応まで丁寧に作ることが得意です。",
+    "stats": {
+      "projects": "完了したプロジェクト",
+      "experience": "経験年数",
+      "clients": "満足したクライアント"
+    },
+    "goalsTitle": "サイトの目的",
+    "goalsText": "フルスタック職への応募、フリーランス案件の獲得、そして個人ブランディングの強化。",
+    "audienceTitle": "想定ユーザー",
+    "audienceText": "採用担当者／リクルーター、非技術系クライアント、技術系クライアント／開発者、一般ユーザー。",
+    "skillsTitle": "スキル & 技術",
+    "skillsSubtitle": "主に使用しているスタックとツール。",
+    "skillsGroups": {
+      "languages": "プログラミング言語",
+      "frameworks": "フレームワーク／ツール",
+      "database": "データベース",
+      "other": "その他"
+    }
+  },
+  "projects": {
+    "title": "注目のプロジェクト",
+    "subtitle": "最近の制作実績の一部",
+    "viewAll": "すべてのプロジェクトを見る",
+    "viewProject": "プロジェクトを見る",
+    "viewDetails": "詳細を見る",
+    "techStack": "技術スタック",
+    "featured": "注目",
+    "items": {
+      "syareapreneur": {
+        "title": "Syareapreneur.site",
+        "description": "シャリア金融／融資の申請・確認・データ管理を行うWebサイト。",
+        "longDescription": "シャリア原則に基づく融資ワークフローを管理するWebアプリです。情報ページ、申請フォーム、入力バリデーション、DB保存、そして基本的な管理者フロー（確認・処理）を含みます。"
+      },
+      "smaibnuaqil": {
+        "title": "smaibnuaqil.my.id（入学受付）",
+        "description": "入学申請フォーム、書類アップロード、管理機能を備えた入学受付サイト。",
+        "longDescription": "軽量な入学受付システムです。申請者はフォーム入力と書類アップロードを行い、ステータスを確認できます。管理者は登録内容の確認・検証・表示情報の管理が可能です。"
+      },
+      "linktree": {
+        "title": "Linktree風の個人ページ",
+        "description": "自己紹介と主要リンクをまとめた個人ブランディングページ。",
+        "longDescription": "短い自己紹介、SNSリンク、主要CTAをシンプルに掲載する軽量サイトです。素早いポートフォリオ共有や個人ブランディングに最適です。"
+      }
+    }
+  },
+  "services": {
+    "title": "サービス",
+    "subtitle": "お手伝いできること",
+    "items": {
+      "frontend": {
+        "title": "フロントエンド開発",
+        "description": "レスポンシブで高速、アクセシブルなUIをReact / Next.js / Vue と最新CSSで構築します。"
+      },
+      "backend": {
+        "title": "バックエンド開発",
+        "description": "堅牢なAPIやサーバーサイド機能を構築し、DB設計・管理まで対応します（Laravel など）。"
+      },
+      "fullstack": {
+        "title": "フルスタック開発",
+        "description": "要件整理から実装、公開、運用・保守まで、Webアプリをエンドツーエンドで提供します。"
+      }
+    }
+  },
+  "experience": {
+    "title": "経験",
+    "subtitle": "これまでの歩み",
+    "present": "現在"
+  },
+  "education": {
+    "title": "学歴",
+    "subtitle": "学習背景"
+  },
+  "testimonials": {
+    "title": "推薦の声",
+    "subtitle": "クライアントの声"
+  },
+  "notes": {
+    "title": "ノート & 記事",
+    "subtitle": "開発と技術について",
+    "readMore": "続きを読む",
+    "readTime": "分で読めます",
+    "allTags": "すべて",
+    "noNotes": "ノートが見つかりません",
+    "viewAll": "すべてのノートを見る"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "一緒に作りましょう",
+    "description": "新しいプロジェクトやアイデア、協業のご相談など、いつでもお気軽にご連絡ください。",
+    "email": "メール",
+    "whatsapp": "WhatsApp",
+    "social": "SNS",
+    "copyEmail": "メールをコピー",
+    "copied": "コピーしました！",
+    "sendMessage": "メッセージを送る",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "message": "メッセージ",
+      "submit": "送信する",
+      "subject": "件名",
+      "defaultSubject": "ポートフォリオサイトからのお問い合わせ"
+    },
+    "toast": {
+      "emailCopied": "メールをコピーしました",
+      "messageRequired": "メッセージは必須です",
+      "openingEmail": "メールアプリを開いています..."
+    }
+  },
+  "footer": {
+    "tagline": "情熱と精度で、デジタル体験を形にします。",
+    "quickLinks": "クイックリンク",
+    "connect": "つながる",
+    "copyright": "© 2024 Mush'ab Abdurrahman Fathin. All rights reserved."
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "backToHome": "ホームへ戻る"
+  },
+  "organizations": {
+    "title": "団体・活動",
+    "subtitle": "学内団体での活動・リーダー経験"
+  },
+  "projectDetail": {
+    "backToProjects": "プロジェクト一覧へ戻る",
+    "visitSite": "サイトを見る",
+    "gallery": "スクリーンショット / ギャラリー",
+    "notFound": "プロジェクトが見つかりません",
+    "notFoundDesc": "お探しのプロジェクトは存在しないか、リンクが変更された可能性があります。"
+  },
+  "notesDetail": {
+    "backToNotes": "ノート一覧へ戻る",
+    "notFound": "ノートが見つかりません",
+    "notFoundDesc": "お探しの記事は存在しないか、リンクが変更された可能性があります。"
+  }
+}

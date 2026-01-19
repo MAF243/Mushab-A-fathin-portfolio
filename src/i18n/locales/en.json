@@ -1,0 +1,173 @@
+{
+  "meta": {
+    "title": "Mush'ab Abdurrahman Fathin | Fullstack Web Developer",
+    "description": "A passionate IT student and Fullstack Web Developer crafting elegant digital experiences with modern technologies."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "experience": "Experience",
+    "education": "Education",
+    "testimonials": "Testimonials",
+    "notes": "Notes",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Mush'ab Abdurrahman Fathin",
+    "roles": {
+      "fullstack": "Fullstack Web Developer",
+      "student": "3rd-semester IT student"
+    },
+    "cta": {
+      "cv": "Download CV",
+      "whatsapp": "Chat on WhatsApp",
+      "projects": "View Projects"
+    },
+    "headline": "Build fast, clean, business-ready websites.",
+    "subheadline": "Mush'ab Abdurrahman Fathin · Fullstack Web Developer · 3rd-semester IT student",
+    "bio": "I help HR teams and clients ship modern web apps—from landing pages and admin dashboards to CRUD systems—focused on performance, maintainability, and a polished user experience.",
+    "photoAlt": "Profile photo of Mush'ab Abdurrahman Fathin"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know who I am",
+    "bio": "I'm Mush'ab Abdurrahman Fathin, a 3rd-semester IT student focused on web development. I build websites and web systems using PHP/JavaScript with clean UI and reliable fundamentals.\n\nI've worked on projects such as \"syareapreneur.site\" (sharia financing/loan website), \"smaibnuaqil.my.id\" (student admission/PPDB site), and a simple Linktree-style personal page for branding.\n\nI enjoy translating requirements into clear features: forms, validations, databases, admin panels, and responsive pages.",
+    "stats": {
+      "projects": "Projects Completed",
+      "experience": "Years of Experience",
+      "clients": "Happy Clients"
+    },
+    "goalsTitle": "Website Goal",
+    "goalsText": "Apply for fullstack roles, take freelance projects, and strengthen personal branding.",
+    "audienceTitle": "Target Audience",
+    "audienceText": "HR/recruiters, non-technical clients, technical clients/developers, and the general public.",
+    "skillsTitle": "Skills & Technologies",
+    "skillsSubtitle": "My core stack and tools I use most.",
+    "skillsGroups": {
+      "languages": "Programming Languages",
+      "frameworks": "Frameworks / Tools",
+      "database": "Database",
+      "other": "Other"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "A selection of my recent work",
+    "viewAll": "View All Projects",
+    "viewProject": "View Project",
+    "viewDetails": "View Details",
+    "techStack": "Tech Stack",
+    "featured": "Featured",
+    "items": {
+      "syareapreneur": {
+        "title": "Syareapreneur.site",
+        "description": "A sharia financing/loan website for applications, verification, and data management.",
+        "longDescription": "A web application to manage a sharia-based loan workflow. Includes information pages, application forms, input validation, database storage, and a basic admin flow to review and process submissions."
+      },
+      "smaibnuaqil": {
+        "title": "smaibnuaqil.my.id (Admissions)",
+        "description": "Student admission website with forms, document uploads, and an admin panel.",
+        "longDescription": "A lightweight admissions system: applicants fill forms, upload documents, and track status. Admins can review registrants, verify submissions, and manage displayed information."
+      },
+      "linktree": {
+        "title": "Linktree-style Personal Page",
+        "description": "A personal branding page to introduce myself and route visitors to key links.",
+        "longDescription": "A clean, lightweight website to display a short bio, social links, and primary CTAs—ideal for quick portfolio sharing and personal branding."
+      }
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "How I can help you",
+    "items": {
+      "frontend": {
+        "title": "Frontend Development",
+        "description": "Building responsive, performant, and accessible user interfaces using React, Next.js, Vue, and modern CSS frameworks."
+      },
+      "backend": {
+        "title": "Backend Development",
+        "description": "Creating robust APIs and server-side applications with Node.js, Laravel, and database management."
+      },
+      "fullstack": {
+        "title": "Fullstack Solutions",
+        "description": "End-to-end web application development from concept to deployment, including maintenance and support."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "My professional journey",
+    "present": "Present"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic background"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What clients say about me"
+  },
+  "notes": {
+    "title": "Notes & Articles",
+    "subtitle": "Thoughts on development and technology",
+    "readMore": "Read More",
+    "readTime": "min read",
+    "allTags": "All",
+    "noNotes": "No notes found",
+    "viewAll": "View All Notes"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's work together",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "social": "Social Media",
+    "copyEmail": "Copy Email",
+    "copied": "Copied!",
+    "sendMessage": "Send Message",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "subject": "Subject",
+      "defaultSubject": "Portfolio Website Contact"
+    },
+    "toast": {
+      "emailCopied": "Email copied",
+      "messageRequired": "Message cannot be empty",
+      "openingEmail": "Opening your email app..."
+    }
+  },
+  "footer": {
+    "tagline": "Crafting digital experiences with passion and precision.",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "copyright": "© 2024 Mush'ab Abdurrahman Fathin. All rights reserved."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "backToHome": "Back to Home"
+  },
+  "organizations": {
+    "title": "Organizations",
+    "subtitle": "Leadership and campus organization experiences"
+  },
+  "projectDetail": {
+    "backToProjects": "Back to Projects",
+    "visitSite": "Visit Website",
+    "gallery": "Screenshots / Gallery",
+    "notFound": "Project not found",
+    "notFoundDesc": "The project you're looking for doesn't exist or the link has changed."
+  },
+  "notesDetail": {
+    "backToNotes": "Back to Notes",
+    "notFound": "Note not found",
+    "notFoundDesc": "The article you're looking for doesn't exist or the link has changed."
+  }
+}
